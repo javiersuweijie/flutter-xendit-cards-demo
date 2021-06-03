@@ -1,0 +1,16 @@
+PODS:
+  - Xendit (3.2.0)
+
+DEPENDENCIES:
+  - Xendit (~> 3.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Xendit
+
+SPEC CHECKSUMS:
+  Xendit: f2b12b8ac20296d803b6d06b99cc094c981d9bbf
+
+PODFILE CHECKSUM: bf39e67402d49cd21e708e6032415eb83855c0d7
+
+COCOAPODS: 1.10.1
